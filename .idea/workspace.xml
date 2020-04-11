@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a23d7ab-1fcc-4f06-b997-c86ed34585fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Player.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BinarChallenge/Main$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BinarChallenge/Main$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BinarChallenge/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BinarChallenge/Player.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1aFbTZRS2jpdp8X3Q1SGMEGFE0r" />
   <component name="ProjectViewState">
@@ -34,6 +34,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Binar1" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
@@ -67,17 +70,33 @@
       <option name="presentableId" value="Default" />
       <updated>1586334297604</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tambah fitur baru (Player vs Computer)">
+      <created>1586577736322</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586577736322</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tambah fitur baru (Player vs Computer)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tambah fitur baru (Player vs Computer)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="487" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1586575695849">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
     <state x="487" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1376.744@0.0.1376.744" timestamp="1586575695849" />
-    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1586577653807">
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1586577735006">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1376.744@0.0.1376.744" timestamp="1586577653807" />
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1376.744@0.0.1376.744" timestamp="1586577735006" />
+    <state x="93" y="93" width="1190" height="558" key="DiffContextDialog" timestamp="1586577899422">
+      <screen x="0" y="0" width="1376" height="744" />
+    </state>
+    <state x="93" y="93" width="1190" height="558" key="DiffContextDialog/0.0.1376.744@0.0.1376.744" timestamp="1586577899422" />
     <state x="901" y="230" key="FileChooserDialogImpl" timestamp="1586335131362">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
@@ -98,9 +117,17 @@
       <screen x="0" y="0" width="1376" height="744" />
     </state>
     <state width="1333" height="184" key="GridCell.Tab.0.right/0.0.1376.744@0.0.1376.744" timestamp="1586577653851" />
-    <state x="511" y="289" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586577727086">
+    <state x="169" y="0" key="SettingsEditor" timestamp="1586577913818">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state x="511" y="289" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1376.744@0.0.1376.744" timestamp="1586577727086" />
+    <state x="169" y="0" key="SettingsEditor/0.0.1376.744@0.0.1376.744" timestamp="1586577913818" />
+    <state x="281" y="105" key="Vcs.Push.Dialog.v2" timestamp="1586578016456">
+      <screen x="0" y="0" width="1376" height="744" />
+    </state>
+    <state x="281" y="105" key="Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744" timestamp="1586578016456" />
+    <state x="511" y="289" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586577897422">
+      <screen x="0" y="0" width="1376" height="744" />
+    </state>
+    <state x="511" y="289" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1376.744@0.0.1376.744" timestamp="1586577897422" />
   </component>
 </project>
